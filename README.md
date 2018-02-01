@@ -19,3 +19,20 @@ Table Of Contents
 14.Comprehensive evaluation and decision-making methods
 15.Method of prediction
 16.Goal planning
+
+
+
+2018.2.1
+
+How to solve "failed to push some refs to git"\n
+
+The main reason for the error is that the README.md file in github is not in the local code directory.
+
+Code can be combined through the following order Note(pull = fetch + merge):
+git pull --rebase origin master
+
+After executing the above code you can see the README.md file in the local code base.
+
+At this point and then execute the statement:
+git push-u origin master
+to complete the code upload to github.

@@ -1,0 +1,1 @@
+[x,y]=fminsearch('test3',rand(2,1))

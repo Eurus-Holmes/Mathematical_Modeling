@@ -1,3 +1,5 @@
+![](https://github.com/Eurus-Holmes/Mathematical_Modeling/raw/master/images/logo.jpg)
+
 # 2018.1.30
 ## Mathematical Modeling Algorithms and Applications
 
@@ -23,18 +25,5 @@
 ----------
 
 
-# 2018.2.1
 
-> How to solve "failed to push some refs to git"
-
-    The main reason for the error is that the README.md file in github is not in the local code directory.
-    
-    Code can be combined through the following order Note(pull = fetch + merge):
-    git pull --rebase origin master
-    
-    After executing the above code you can see the README.md file in the local code base.
-    
-    At this point and then execute the statement:
-    git push-u origin master
-    to complete the code upload to github.
 

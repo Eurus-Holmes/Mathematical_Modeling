@@ -1,4 +1,4 @@
-![](https://github.com/Eurus-Holmes/Mathematical_Modeling/raw/master/images/logo.jpg)
+![](https://github.com/Eurus-Holmes/Mathematical_Modeling/raw/master/images/logo.png)
 
 # 2018.1.30
 ## Mathematical Modeling Algorithms and Applications

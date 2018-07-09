@@ -4,11 +4,13 @@
 
 
 # COMAP
-> Turn theory into practice by entering COMAP's Mathematical Contest in Modeling (MCM). The study of mathematics as a subject in its own right may have started with Pythagoras, but people have been counting as a basic necessity of everyday life for thousands of years. It follows that mathematics was invented to help us understand and manage the world around us. 
+
+Turn theory into practice by entering COMAP's Mathematical Contest in Modeling (MCM). The study of mathematics as a subject in its own right may have started with Pythagoras, but people have been counting as a basic necessity of everyday life for thousands of years. It follows that mathematics was invented to help us understand and manage the world around us. 
 
 ----------
 
 # Mathematical Modeling Algorithms and Applications
+2018.1.30
 
  - [Linear programming](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Linear_programming)
  - [Integer programming](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Integer_programming)
@@ -27,8 +29,6 @@
  - [Method of prediction](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Method_of_prediction)
  - [Goal planning](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Goal_planning)
 
-
-                                                                                                                   ——2018.1.30
  
 ----------
 

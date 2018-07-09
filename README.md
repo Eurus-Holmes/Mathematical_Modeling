@@ -21,7 +21,7 @@
 ## Mathematical Modeling Algorithms and Applications
 
 
-    1. Linear programming
+    Linear programming
     2. Integer programming
     3. Nonlinear programming
     4. Figure and network model and method

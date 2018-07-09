@@ -1,15 +1,6 @@
 ![](https://github.com/Eurus-Holmes/Mathematical_Modeling/raw/master/images/logo.png)
 
-[![](https://travis-ci.org/Eurus-Holmes/Eurus-Holmes.svg?branch=master)](https://travis-ci.org/Eurus-Holmes/Mathematical_Modeling)
 ----------
-
-<a href="https://travis-ci.org/onevcat/Kingfisher"><img src="https://img.shields.io/travis/onevcat/Kingfisher/master.svg"></a>
-<a href="https://raw.githubusercontent.com/onevcat/Kingfisher/master/LICENSE"><img src="https://img.shields.io/cocoapods/l/Kingfisher.svg?style=flat"></a>
-<a href="http://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/p/Kingfisher.svg?style=flat"></a>
-<a href="https://github.com/Carthage/Carthage/"><img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat"></a>
-<a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-ready-orange.svg"></a>
-<a href="http://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/v/Kingfisher.svg?style=flat"></a>
-<a href="https://codebeat.co/projects/github-com-onevcat-kingfisher"><img alt="codebeat badge" src="https://codebeat.co/assets/svg/badges/A-398b39-669406e9e1b136187b91af587d4092b0160370f271f66a651f444b990c2730e9.svg" /></a>
 
 
 # COMAP
@@ -21,23 +12,23 @@
 # 2018.1.30
 ## Mathematical Modeling Algorithms and Applications
 
-
-    Linear programming
-    2. Integer programming
-    3. Nonlinear programming
-    4. Figure and network model and method
-    5. Interpolation and Fitting
-    6. Differential Equation Modeling
-    7. Mathematical Statistics
-    8. Sequentially
-    9. Support Vector Machines
-    10. Multivariate analysis
-    11. Partial least squares regression analysis
-    12. Modern optimization algorithm
-    13. Digital image processing
-    14. Comprehensive evaluation and decision-making methods
-    15. Method of prediction
-    16. Goal planning
- 
+ - [Linear programming](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Linear_programming)
+ - [Integer programming](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Integer_programming)
+ - [Nonlinear programming](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Nonlinear_programming)
+ - [Figure and network model and method](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Figure_and_network_model_and_method)
+ - [Interpolation and Fitting](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Interpolation_and_Fitting)
+ - [Differential Equation Modeling](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Differential_Equation_Modeling)
+ - [Mathematical Statistics](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Mathematical_Statistics)
+ - [Sequentially](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Sequentially)
+ - [Support Vector Machines](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Support_Vector_Machines)
+ - [Multivariate analysis](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Multivariate_analysis)
+ - [Partial least squares regression analysis](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Partial_least_squares_regression_analysis)
+ - [Modern optimization algorithm](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Modern_optimization_algorithm)
+ - [Digital image processing](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Digital_image_processing)
+ - [Comprehensive evaluation and decision-making methods](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Comprehensive_evaluation_and_decision-making_methods)
+ - [Method of prediction](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Method_of_prediction)
+ - [Goal planning](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Goal_planning)
 
 ----------
+
+

@@ -32,4 +32,6 @@ Turn theory into practice by entering COMAP's Mathematical Contest in Modeling (
  
 ----------
 
+# MCM: The Mathematical Contest in Modeling
+# ICM: The Interdisciplinary Contest in Modeling
 

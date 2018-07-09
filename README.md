@@ -32,6 +32,15 @@ Turn theory into practice by entering COMAP's Mathematical Contest in Modeling (
  
 ----------
 
+# AHP&CA&Classical_Algorithm
+2018.2.5
+
+ - [AHP](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/AHP)
+ - [CA](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Cellular%20automaton)
+ - [Classical_Algorithm](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Classic_algorithm)
+
+----------
+
 # MCM: The Mathematical Contest in Modeling
 # ICM: The Interdisciplinary Contest in Modeling
 2018.2.9---2.13

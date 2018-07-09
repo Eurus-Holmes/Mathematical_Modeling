@@ -49,4 +49,12 @@ Turn theory into practice by entering COMAP's Mathematical Contest in Modeling (
 
 ----------
 
+# Latex Template
+2018.6.30
 
+ - [latex_template](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/latex_template)
+
+----------
+
+
+ 

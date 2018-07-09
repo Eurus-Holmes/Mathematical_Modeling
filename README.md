@@ -1,5 +1,6 @@
 ![](https://github.com/Eurus-Holmes/Mathematical_Modeling/raw/master/images/logo.png)
 
+[![](https://travis-ci.org/Eurus-Holmes/Eurus-Holmes.svg?branch=master)](https://travis-ci.org/Eurus-Holmes/Mathematical_Modeling)
 ----------
 
 <a href="https://travis-ci.org/onevcat/Kingfisher"><img src="https://img.shields.io/travis/onevcat/Kingfisher/master.svg"></a>

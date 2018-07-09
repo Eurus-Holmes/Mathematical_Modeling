@@ -8,9 +8,7 @@
 
 ----------
 
-
-# 2018.1.30
-## Mathematical Modeling Algorithms and Applications
+# Mathematical Modeling Algorithms and Applications
 
  - [Linear programming](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Linear_programming)
  - [Integer programming](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Integer_programming)
@@ -29,6 +27,9 @@
  - [Method of prediction](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Method_of_prediction)
  - [Goal planning](https://github.com/Eurus-Holmes/Mathematical_Modeling/tree/master/Goal_planning)
 
+
+                                                                                                                   ——2018.1.30
+ 
 ----------
 
 
